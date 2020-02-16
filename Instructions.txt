@@ -1,0 +1,6 @@
+
+Save all keystrokes in vim with:
+
+vim -W commitcoin.txt
+
+when exiting it will ask for a new file name which is the actual text, while commitcoin.txt will have all the keystrokes.
